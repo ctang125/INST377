@@ -1,0 +1,22 @@
+#myName {
+   background-color: navy;
+   display: flex;
+   justify-content: center;
+}
+
+h1 {
+       color: lightgray;
+} 
+
+.resume{
+    width: 60%;
+    margin: auto; 
+}
+
+
+
+
+
+
+
+
