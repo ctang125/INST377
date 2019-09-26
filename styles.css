@@ -1,4 +1,7 @@
-/*(Q2-1)*/ 
+html {
+    background-color: aliceblue;
+}
+
 #myName {
     background-color: navy;
     display: flex;
@@ -10,14 +13,12 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-/*(Q2-2)*/
 .resume {
     width: 60%;
     margin:auto;
 
 }
 
-/*(Q2-4)*/
 #myPicture img {
     width: 70%;
     height: 70%;
@@ -36,7 +37,6 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-/*(Q2-5)*/
 #myWorkHistory h3{
     color: gray;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -59,11 +59,3 @@
     color: gray;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
-
-
-
-
-
-
-
